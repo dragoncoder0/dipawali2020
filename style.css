@@ -1,0 +1,13 @@
+body {
+	background: #000000;
+	margin: 0;
+}
+
+canvas {
+	cursor: crosshair;
+    display: block;
+    background-image: url('./lord-ram.jpg') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: cover;
+}
